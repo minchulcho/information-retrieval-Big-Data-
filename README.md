@@ -1,0 +1,1 @@
+We got the data from UCI using web crawling(Python). And we provided the web link the user was looking for. We used the TF-IDF formula and some features for high accuracy.
